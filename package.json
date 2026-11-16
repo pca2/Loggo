@@ -1,0 +1,14 @@
+{
+  "name": "loggo",
+  "version": "1.0.0",
+  "description": "Track when you last performed routine chores",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "jsdom": "^31.0.1",
+    "vitest": "^3.2.1"
+  },
+  "private": true
+}
